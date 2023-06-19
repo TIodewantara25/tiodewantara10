@@ -187,18 +187,7 @@ header {
   color: var(--second-color);
   padding: 1rem;
 }
-  @media (max-width: 991px) {
-    header {
-      padding: 10px 4%;
-    }
-    section {
-      padding: 50px 4%;
-    }
-    :root {
-      --big-font: 2.7rem;
-      --h2-font: 1.7rem;
-    }
-  }
+
   @media (max-width: 768px) {
     :root {
       --big-font: 2rem;
@@ -238,9 +227,4 @@ header {
       padding-top: 2rem;
     }
   }
-  @media (max-width: 415px) {
-    .contact-form form input,
-    textarea {
-      width: auto;
-    }
-  }
+
