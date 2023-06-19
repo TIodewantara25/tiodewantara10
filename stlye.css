@@ -226,5 +226,9 @@ header {
     .home-text {
       padding-top: 2rem;
     }
+       .home-img img {
+  width: 100%;
+  position: relative;
+  left:5%;
   }
 
