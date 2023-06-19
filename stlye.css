@@ -188,7 +188,7 @@ header {
   padding: 1rem;
 }
 
-  @media (max-width: 650px) {
+  @media (max-width: 700px) {
     :root {
       --big-font: 2rem;
       --h2-font: 1.4rem;
@@ -226,10 +226,5 @@ header {
     .home-text {
       padding-top: 2rem;
     }
-    .home-img img {
-  width: 100%;
-  position: relative;
-  left: 15%;
-}
   }
 
