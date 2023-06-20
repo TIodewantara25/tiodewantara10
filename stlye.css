@@ -228,7 +228,6 @@ header {
     }
        .home-img img {
   width: 100%;
-  position: relative;
-  left:-11%;
+  position: center;
   }
 
