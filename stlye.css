@@ -178,10 +178,10 @@ header {
 .medos a .bx:hover {
   background:  #f54744;
 }
-.links {
+.Tio {
   margin: 1rem 0 1rem;
 }
-.links a {
+.Tio a {
   font-size: 1rem;
   font-weight: 500;
   color: var(--second-color);
